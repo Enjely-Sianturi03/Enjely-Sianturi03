@@ -1,6 +1,6 @@
 ## Hi there, I'm Enjely Sianturi👋
 
-![Banner](img/banner.png)
+![Banner](img/banner1.png)
 <!--
 **Enjely-Sianturi03/Enjely-Sianturi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
