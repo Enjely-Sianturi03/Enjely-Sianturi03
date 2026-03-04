@@ -26,11 +26,13 @@
 - 🧠 Basic Data Structures & Algorithms  
 
 ---
+## ⚙️Contact
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![image](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
+![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![image](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
-🔭 I’m currently working on 
-**Fasilkom-TI USU**
-![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
+---
 <img src="https://raw.githubusercontent.com/Enjely-Sianturi03/Enjely-Sianturi03/output/snake.svg" alt="Snake animation" />
 
 ## 📫 Connect With Me
