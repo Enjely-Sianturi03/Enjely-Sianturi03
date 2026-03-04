@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on 
 **Fasilkom-TI USU**
-
-<img src="https://raw.githubusercontent.com/Enjely-Sianturi03/Enjely-Sianturi03/output/snake.svg" alt="Snake animation" />
+<!-- 
+<img src="https://raw.githubusercontent.com/Enjely-Sianturi03/Enjely-Sianturi03/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
