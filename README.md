@@ -51,11 +51,6 @@
 ---
 <img src="https://raw.githubusercontent.com/Enjely-Sianturi03/Enjely-Sianturi03/output/snake.svg" alt="Snake animation" />
 
-## 📫 Connect With Me
-- ✉️ Email: your-email@example.com  
-- 💼 LinkedIn: (optional)  
-- 🌐 Portfolio: (optional)
-
 ---
 
 <p align="center">
