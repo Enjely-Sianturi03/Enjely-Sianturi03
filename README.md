@@ -17,15 +17,6 @@
 - 🎯 Focused on building useful and scalable web applications  
 
 ---
-
-## 🛠️ Tech Stack
-- 💻 HTML, CSS, JavaScript  
-- 🐘 PHP  
-- ⚙️ Laravel  
-- 🗄️ MySQL  
-- 🧠 Basic Data Structures & Algorithms 
-
----
 ## Tech Stacks
 
 <div align="center"> 
@@ -50,9 +41,13 @@
 </div>
 
 ---
+
+## 🐍 Snake 
+
 <img src="https://raw.githubusercontent.com/Enjely-Sianturi03/Enjely-Sianturi03/output/snake.svg" alt="Snake animation" />
 
 ---
+
 
 <p align="center">
   ✨ Keep learning, keep building ✨
