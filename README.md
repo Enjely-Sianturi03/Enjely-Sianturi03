@@ -23,9 +23,13 @@
 - 🐘 PHP  
 - ⚙️ Laravel  
 - 🗄️ MySQL  
-- 🧠 Basic Data Structures & Algorithms  
+- 🧠 Basic Data Structures & Algorithms 
 
 ---
+## Tech Stacks
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+---
+
 ## ⚙️Contact
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![image](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
