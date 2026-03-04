@@ -38,10 +38,6 @@
 
 ---
 
-[![Enjely's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjely)](https://github.com/enjely/github-readme-stats)
-
----
-
 ## ⚙️Contact
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![image](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
