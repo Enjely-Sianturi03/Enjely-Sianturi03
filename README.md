@@ -1,20 +1,31 @@
 ## Hi there, I'm Enjely Sianturi👋
 
 ![Banner](img/banner1.png)
-<!--
-**Enjely-Sianturi03/Enjely-Sianturi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  🎓 Information Technology Student <br>
+  📍 Faculty of Computer Science - Universitas Sumatera Utara <br>
+  💻 Passionate about Web Development & System Design
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 Information Technology student at Fasilkom-TI USU  
+- 💡 Interested in Web Development and Information Systems  
+- 🌱 Currently learning Laravel, PHP, and Database Design  
+- 🎯 Focused on building useful and scalable web applications  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 HTML, CSS, JavaScript  
+- 🐘 PHP  
+- ⚙️ Laravel  
+- 🗄️ MySQL  
+- 🧠 Basic Data Structures & Algorithms  
+
+---
 
 🔭 I’m currently working on 
 **Fasilkom-TI USU**
@@ -22,12 +33,23 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/Enjely-Sianturi03/Enjely-Sianturi03/output/snake.svg" alt="Snake animation" />
 
-###
+## 📫 Connect With Me
+- ✉️ Email: your-email@example.com  
+- 💼 LinkedIn: (optional)  
+- 🌐 Portfolio: (optional)
 
+---
+
+<p align="center">
+  ✨ Keep learning, keep building ✨
+</p>
+
+###
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enjely-Sianturi03/Enjely-Sianturi03/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enjely-Sianturi03/Enjely-Sianturi03/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Enjely-Sianturi03/Enjely-Sianturi03/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
