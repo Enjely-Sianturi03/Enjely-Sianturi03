@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on 
 **Fasilkom-TI USU**
-![image]({https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white})
+![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/Enjely-Sianturi03/Enjely-Sianturi03/output/snake.svg" alt="Snake animation" />
 
