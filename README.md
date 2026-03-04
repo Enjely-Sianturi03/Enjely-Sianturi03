@@ -38,7 +38,7 @@
 
 ---
 
-![Enjely stats](https://github-readme-stats.vercel.app/api?username=enjely&commits_year=2020)
+[![Enjely's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjely)](https://github.com/enjely/github-readme-stats)
 
 ---
 
